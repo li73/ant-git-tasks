@@ -1,5 +1,7 @@
 #+TITLE: Ant tasks for Git using JGit
 
+example url  : https://github.com/rimerosolutions/ant-git-tasks/blob/master/src/test/resources/integration-tests.xml
+
 #+ATTR_HTML: title="travis-ci status page"
 [[https://travis-ci.org/rimerosolutions/ant-git-tasks/][file:https://travis-ci.org/rimerosolutions/ant-git-tasks.png]]
 
